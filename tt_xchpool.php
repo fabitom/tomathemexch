@@ -2,7 +2,7 @@
 header('Content-Type: application/json');
 const PLOT_STEP = 60 * 60 * 2; //2hours
 
-if (isset($_GET['singleton'])) {
+if ((isset($_GET['singleton'])) && (strlen($_GET['singleton'])==64)) {
    $singleton = $_GET['singleton'];
    $json = file_get_contents('https://api.xchpool.org/v1/members/get?search='.$singleton);
    sleep(0.5);
