@@ -1,4 +1,4 @@
-# tomathemexch Android APK
+# tomathemexch Android
 # Toma Dashboard theme for xchpool.org
 https://toma-dashboard.prois.eu/
 
