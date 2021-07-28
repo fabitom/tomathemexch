@@ -3,3 +3,4 @@
 https://toma-dashboard.prois.eu/
 
 Download Toma Dashboard android apk and set API URL (example) https://yourdomain.com/tt_xchpool.php?singleton=YourLauncherID
+![example](https://github.com/fabitom/tomathemexch/edit/main/sample.jpg?raw=true)
